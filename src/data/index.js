@@ -88,19 +88,19 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
+      title: "Student Management Software",
+      des: "An advanced AI-powered SaaS platform designed for schools and colleges. It enables seamless student data management, automated report generation, attendance tracking, and integrated payment & credits systems — all built with a modern tech stack for scalability and real-time insights.",
+      img: "/school.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/Lucifero-debug/school-management",
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      title: "Book Management System",
+      des: "A full-stack web application to efficiently manage library records, including book listings, borrowing history, and user profiles. It features dynamic CRUD operations, responsive UI",
+      img: "/book.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://book-management-inky-chi.vercel.app/",
     },
   ];
   
