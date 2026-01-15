@@ -21,7 +21,7 @@ const Hero = () => {
     words="Transforming Cocepts Into Seamless User Experience"
 />
 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-    Hi,I&apos;m Prateek,a Next.js and pythonDeveloper Based In India
+    Hi,I&apos;m Prateek, Next.js and pythonDeveloper Based In India
 </p>
 </div>
     </div>
