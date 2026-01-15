@@ -11,7 +11,7 @@ const Footer = () => {
             Ready To Take <span className='text-purple'>Your</span>Digital Presence to the next Level
         </h1>
         <p className='text-white-200 md:mt-10 my-5 text-center'>Reach Out To Me Today And Let&apos;s Discuss How I Can Help You Achieve Your Goals</p>
-        <a href="mailto:shishupal78008@gmail.com">
+        <a href="mailto:prateekjha240@gmail.com">
             <MagicButton
                 title="Let's Get In Touch"
                 icon={<FaLocationArrow/>} 
@@ -20,7 +20,7 @@ const Footer = () => {
         </a>
       </div>
       <div className='flex mt-16 md:flex-row flex-col justify-between items-center'>
-        <p className='md:text-base text-sm md:font-normal font-light'>Copyright © 2024 Prashant</p>
+        <p className='md:text-base text-sm md:font-normal font-light'>Copyright © 2024 Prateek</p>
         <div className='flex items-center md:gap-3 gap-6'>
             {socialMedia.map((profile)=>(
                 <a href={profile.link} key={profile.id} className='w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300'>

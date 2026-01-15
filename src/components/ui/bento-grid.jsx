@@ -36,7 +36,7 @@ export const BentoGridItem = ({
   const [copied,setCopied]=useState(false)
 
   const handleCopy = () => {
-    const text = "shishupal78008@gmail.com";
+    const text = "prateekjha240@gmail.com";
     navigator.clipboard.writeText(text);
     setCopied(true);
   };
@@ -86,7 +86,7 @@ export const BentoGridItem = ({
 {id===3 && (
   <div className="flex gap-1 lg:gap-5 w-fit absolute -right-3 lg:-right-2">
     <div className="flex flex-col gap-3 md:gap-3 lg:gap-8">
-      {['Vue.js','MongoDB','NodeJs'].map((item,i)=>(
+      {['python','MongoDB','NodeJs'].map((item,i)=>(
         <span
                     key={i}
                     className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
